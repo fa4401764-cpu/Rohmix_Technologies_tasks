@@ -1,29 +1,23 @@
-# Rohmix_Technologies_tasks
-🔷 Rohmbix Technologies – Data Analysis Internship
+Rohmbix_Technologies_Data Analysis Internship Projects
 
-This repository contains work cleaning data focusing on data preprocessing and exploratory data analysis and further more. The project demonstrates practical application of data cleaning, statistical analysis, and visualization techniques to transform raw data into meaningful insights.
+This repository contains my hands-on work and learning during a Data Analysis Internship. It includes tasks focused on data collection, cleaning, preprocessing, analysis, and visualization using Python and its data science libraries.The goal of this repository is to demonstrate practical skills in transforming raw datasets into meaningful insights through real-world data handling techniques.
 
-📌 Description
+🔧 Skills & Tools Used                                                                                                       
+Python (Pandas, NumPy,Matplotlib,Seaborn)              
+SQL
+Power Bi
+Excel
+Data Cleaning & Preprocessing
+Exploratory Data Analysis (EDA)
+Data Visualization (Matplotlib, Seaborn)
+Jupyter Notebook
+Kaggle / Public Datasets
+            
+📌 Key Learning Areas
 
-The dataset was imported and processed using Pandas to ensure data quality and consistency. Various preprocessing steps were applied, including handling missing values, removing duplicate records, and correcting formatting issues.
-
-After cleaning, exploratory data analysis was performed to better understand the dataset. Statistical measures such as mean, median, minimum, and maximum values were calculated, and relationships between variables were analyzed. Visualizations were created to identify patterns, trends, and outliers within the data.
-
-⚙️ Key Features
-Data loading and inspection ,
-Data cleaning and preprocessing ,
-Handling missing values and duplicates ,
-Data type correction and formatting ,
-Statistical analysis ,
-Correlation analysis ,
-Outlier detection
-Data visualization (histogr, bar charts, line graphs, heatmaps)
-
-Tools:  1-Python  ,    2-Libraries [ Pandas,Matplotlib ,Seaborn]  ,  3-Jupyter Notebook
-
- Outcome
-The project results in a clean and structured dataset along with visual and statistical insights that highlight key patterns and relationships within the data.
-
-
-
-This repository showcases the importance of data preprocessing and exploratory analysis in the data science workflow. By ensuring data quality and analyzing it effectively, meaningful insights can be derived to support informed decision-making.
+Handling missing and duplicate data ,
+Data formatting and transformation  ,
+Statistical analysis of datasets ,
+Visual storytelling with charts and graphs ,
+Preparing datasets for further analysis and modeling 
+To build a strong foundation in data analysis and showcase practical, industry-relevant skills suitable for internships and entry-level data roles.
