@@ -20,9 +20,9 @@ Outlier detection
 Data visualization (histograms, bar charts, line graphs, heatmaps)
 
 Tools:
- -Python
- -Libraries [ Pandas,Matplotlib ,Seaborn]
- -Jupyter Notebook
+   1-Python      
+   2-Libraries [ Pandas,Matplotlib ,Seaborn]    
+   3-Jupyter Notebook
 
  Outcome
 The project results in a clean and structured dataset along with visual and statistical insights that highlight key patterns and relationships within the data.
